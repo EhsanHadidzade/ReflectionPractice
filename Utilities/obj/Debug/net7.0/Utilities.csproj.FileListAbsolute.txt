@@ -1,0 +1,12 @@
+D:\MySamples\ReflectionPractice\Utilities\bin\Debug\net7.0\Utilities.deps.json
+D:\MySamples\ReflectionPractice\Utilities\bin\Debug\net7.0\Utilities.dll
+D:\MySamples\ReflectionPractice\Utilities\bin\Debug\net7.0\Utilities.pdb
+D:\MySamples\ReflectionPractice\Utilities\obj\Debug\net7.0\Utilities.csproj.AssemblyReference.cache
+D:\MySamples\ReflectionPractice\Utilities\obj\Debug\net7.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MySamples\ReflectionPractice\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfoInputs.cache
+D:\MySamples\ReflectionPractice\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfo.cs
+D:\MySamples\ReflectionPractice\Utilities\obj\Debug\net7.0\Utilities.csproj.CoreCompileInputs.cache
+D:\MySamples\ReflectionPractice\Utilities\obj\Debug\net7.0\Utilities.dll
+D:\MySamples\ReflectionPractice\Utilities\obj\Debug\net7.0\refint\Utilities.dll
+D:\MySamples\ReflectionPractice\Utilities\obj\Debug\net7.0\Utilities.pdb
+D:\MySamples\ReflectionPractice\Utilities\obj\Debug\net7.0\ref\Utilities.dll
